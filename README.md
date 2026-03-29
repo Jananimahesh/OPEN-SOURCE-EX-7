@@ -1,7 +1,7 @@
 # OPEN-SOURCE-EX-7
-## NAME : SANJAY K
-## REG NO : 212222040146
-## DEPT : CSE
+## NAME : Janani M
+## REG NO : 2122220050021
+## DEPT : EEE
 # STEPS TO DO :
 ### STEP 1 : sudo pvcreate /dev/sdb
 ### STEP 2 : sudo vgcreate -s 8M vg_backup /dev/sdb
